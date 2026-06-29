@@ -33,6 +33,6 @@ public class ExtentReport {
 
 		extent = new ExtentReports();
 		extent.attachReporter(reporter);
-		extent.setSystemInfo("Tester", "Raj2a");
+		extent.setSystemInfo("Testers", "Raj2a");
 	}
 }
