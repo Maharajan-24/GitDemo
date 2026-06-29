@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-06-25T15:03:16 IST" name="Default suite" finished-at="2026-06-25T15:03:27 IST" duration-ms="10957">
+    <groups>
+    </groups>
+    <test started-at="2026-06-25T15:03:16 IST" name="Default test" finished-at="2026-06-25T15:03:27 IST" duration-ms="10957">
+      <class name="capgemini.waltdisney.ExtentReport">
+        <test-method is-config="true" signature="report()[pri:0, instance:capgemini.waltdisney.ExtentReport@4c163e3]" started-at="2026-06-25T15:03:16 IST" name="report" finished-at="2026-06-25T15:03:17 IST" duration-ms="403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+        <test-method signature="getlink()[pri:0, instance:capgemini.waltdisney.ExtentReport@4c163e3]" started-at="2026-06-25T15:03:17 IST" name="getlink" finished-at="2026-06-25T15:03:27 IST" duration-ms="10489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getlink -->
+      </class> <!-- capgemini.waltdisney.ExtentReport -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
